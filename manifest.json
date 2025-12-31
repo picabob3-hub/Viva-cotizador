@@ -1,11 +1,11 @@
 {
   "name": "Viva Estudio Cotizador",
   "short_name": "VivaEstudio",
+  "description": "Cotizador Profesional de Viva Estudio",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
-  "prefer_related_applications": false,
   "icons": [
     {
       "src": "VIVAICONO.PNG",
