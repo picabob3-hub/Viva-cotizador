@@ -1,7 +1,7 @@
 {
   "name": "Viva Estudio Cotizador",
   "short_name": "VivaEstudio",
-  "description": "Cotizador Profesional de Viva Estudio",
+  "description": "Herramienta Profesional Viva Estudio",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -11,13 +11,13 @@
       "src": "VIVAICONO.PNG",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "VIVAICONO.PNG",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
